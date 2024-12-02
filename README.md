@@ -19,7 +19,7 @@ To create an intuitive dashboard that:
 3. Data Visualization
    - Created line, pie, and map charts to illustrate trends and distributions.
    - Built interactive tables for company sales trends and detailed sales data. 
-4. Geographgic & Business Insights
+4. Geographic & Business Insights
    - Visualized regional sales perfomance with map charts.
    - Delivered actionable insights to track progress and identify growth opportunities.
 5. Business Insight and Reporting
